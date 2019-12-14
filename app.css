@@ -1,0 +1,9 @@
+.hide {
+    display: none;
+}
+.car {
+    width: 45px;
+    height: 100px;
+    background: url(image/ferrari.png) center center no-repeat;
+    background-size: cover;
+}
